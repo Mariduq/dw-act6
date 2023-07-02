@@ -1,0 +1,40 @@
+html, body{
+    scroll-behavior: smooth;
+    transition: 0.5;
+    overflow-x: hidden;
+}
+
+nav, footer {
+    background-color: brown !important;
+    font-family: 'Work Sans', sans-serif;
+}
+
+h2, h3 {
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+}
+
+#arte img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/* Iconos */
+.icon-block {
+    padding: 0 20px;
+}
+
+.icon-block .material-icons {
+    font-size: inherit;
+}
+
+.material-icons {
+    color: rgb(9, 147, 202);
+}
+
+
+p {
+    text-align: justify;
+}
